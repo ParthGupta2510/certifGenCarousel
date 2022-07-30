@@ -1,0 +1,44 @@
+{
+    "Templates": [
+        {
+            "id": 0,
+            "src": "https://picsum.photos/id/1008/400/300",
+            "alt": "Certificate 1"
+        },
+        {
+            "id": 1,
+            "src": "https://picsum.photos/id/1/400/300",
+            "alt": "Certificate 2"
+        },
+        {
+            "id": 2,
+            "src":"https://picsum.photos/id/10/400/300",
+            "alt": "Certificate 3"
+        },
+        {
+            "id": 3,
+            "src": "https://picsum.photos/id/100/400/300",
+            "alt": "Certificate 4"
+        },
+        {
+            "id": 4,
+            "src": "https://picsum.photos/id/1001/400/300",
+            "alt": "Certificate 5"
+        },
+        {
+            "id": 5,
+            "src": "https://picsum.photos/id/1002/400/300",
+            "alt": "Certificate 6"
+        },
+        {
+            "id": 6,
+            "src":"https://picsum.photos/id/1003/400/300",
+            "alt": "Certificate 7"
+        },
+        {
+            "id": 7,
+            "src": "https://picsum.photos/id/1004/400/300",
+            "alt": "Certificate 8"
+        }
+    ]
+}
