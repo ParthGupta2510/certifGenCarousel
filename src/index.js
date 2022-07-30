@@ -1,8 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './App';
+import ControlledCarousel from './ControlledCarousel';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <App />
+    <>
+        <div className='w-50 m-auto'>
+            <ControlledCarousel />
+        </div>
+    </>
 );
