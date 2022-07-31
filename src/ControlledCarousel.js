@@ -26,7 +26,6 @@ function ControlledCarousel() {
                     <Carousel.Item key={template.key}>
                         <img
                             className="d-block w-100"
-                            id={template.id}
                             src={template.src}
                             alt={template.alt}
                         />
